@@ -23,7 +23,7 @@
 	{
 		LED0=0;
 		LED1=1;
-		delay_ms(800);	 //—” ±300ms
+		delay_ms(300);	 //—” ±300ms
 		LED0=1;
 		LED1=0;
 		delay_ms(600);	//—” ±300ms
